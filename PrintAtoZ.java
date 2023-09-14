@@ -9,8 +9,7 @@ public static void main(String[] args) {
 	for(int i = 96; i<=122; i++) {
 		System.out.println((char)(i));
 		System.out.println("sangeeth");
-		System.out.println("njiwjedbf");
-		System.out.println("sjwedsiu");
+		
 	}
 
 }
