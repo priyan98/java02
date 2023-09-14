@@ -10,6 +10,7 @@ public static void main(String[] args) {
 		System.out.println((char)(i));
 		System.out.println("sangeeth");
 		System.out.println("njiwjedbf");
+		System.out.println("sjwedsiu");
 	}
 
 }
