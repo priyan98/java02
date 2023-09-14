@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	}
 	for(int i = 96; i<=122; i++) {
 		System.out.println((char)(i));
+		system.out.println("sangeeth");
 	}
 
 }
